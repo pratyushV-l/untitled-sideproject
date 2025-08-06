@@ -1,1 +1,3 @@
-This is a experimental product
+# My Project
+
+Next.js project ready for development.
